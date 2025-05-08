@@ -13,11 +13,11 @@ datagen = ImageDataGenerator(
     fill_mode='nearest'
 )
 # 獅子和豹的資料夾路徑
-lion_dir = r'C:\Users\Louis\Desktop\datasets\data\lion'  # 獅子原始圖片資料夾
-leopard_dir = r'C:\Users\Louis\Desktop\datasets\data\leopard'  # 豹原始圖片資料夾
+lion_dir = r'C:\Users\Louis\Desktop\project\cnn-animals\data\lion'  # 獅子原始圖片資料夾
+leopard_dir = r'C:\Users\Louis\Desktop\project\cnn-animals\data\leopard'  # 豹原始圖片資料夾
 # 增強後圖片儲存的資料夾
-augmented_lion_dir = r'C:\Users\Louis\Desktop\datasets\data_augmented\lion'
-augmented_leopard_dir = r'C:\Users\Louis\Desktop\datasets\data_augmented\leopard'
+augmented_lion_dir = r'C:\Users\Louis\Desktop\project\cnn-animals\data_augmented\lion'
+augmented_leopard_dir = r'C:\Users\Louis\Desktop\project\cnn-animals\data_augmented\leopard'
 # 創建增強後資料夾，如果不存在的話
 if not os.path.exists(augmented_lion_dir):
     os.makedirs(augmented_lion_dir)
