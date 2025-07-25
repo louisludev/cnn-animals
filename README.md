@@ -14,4 +14,8 @@ https://www.kaggle.com/datasets/mikoajfish99/lions-or-cheetahs-image-classificat
 https://www.kaggle.com/datasets/patriciabrezeanu/big-cats-image-classification-dataset
 https://www.kaggle.com/datasets/antobenedetti/animals
 
+---
 
+best model:
+
+https://drive.google.com/file/d/1jUpd3Ugnw9aSuCUWtF8wxoczW5PGGZFE/view?usp=sharing
