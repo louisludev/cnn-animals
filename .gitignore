@@ -1,4 +1,5 @@
 .venv/
 data_augmented/
 data/
-*.h5
+new_images/
+# *.h5
