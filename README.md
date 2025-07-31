@@ -1,6 +1,6 @@
 # 🦁🐆 CNN-Based Animal Classification
 
-A Convolutional Neural Network (CNN) model for classifying **lions** and **leopards** based on image data.
+A Convolutional Neural Network (CNN) model for classifying **lions** and **Cheetah** based on image data.
 
 ---
 
@@ -40,7 +40,7 @@ The best-performing model (`best_model.h5`) is available via Google Drive:
 
 Evaluation metrics, training curves, and confusion matrix are provided in the [Jupyter Notebook](./code/train_and_evaluate.ipynb).
 
-Accuracy on the test set: **97%**
+Accuracy on the test set: **98%**
 
 ---
 
