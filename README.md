@@ -32,7 +32,7 @@ Additionally, 100 more images (50 lions, 50 leopards) were manually collected fr
 
 The best-performing model (`best_model.h5`) is available via Google Drive:
 
-📥 [Download Pretrained Model (.h5)](https://drive.google.com/file/d/1jUpd3Ugnw9aSuCUWtF8wxoczW5PGGZFE/view?usp=sharing)
+📥 [Download Pretrained Model (.h5)](https://drive.google.com/file/d/106GFtPzLi4UzbxIqKlJXxB2M1GRo9JRn/view?usp=sharing)
 
 ---
 
